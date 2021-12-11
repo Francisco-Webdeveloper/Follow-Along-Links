@@ -3,6 +3,7 @@
 ## Background & Objectives
 When the user hovers over the links both on the navigation bar and text, there is a background effect that will resize itself according to the element's size and follow around the page wherever the cursor is going
 
+https://user-images.githubusercontent.com/67716187/145690449-203bd3d5-a1dc-4f67-85bd-2201539d2b0e.mov
 
 ## Features
 * mouseover event
